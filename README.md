@@ -6,12 +6,12 @@ A simple portfolio to introduce me and my skill set, along side the hobbies that
 <hr><hr>
 <br><br>
 
-# Dependencies
-```
-None for now.
-```
-
 # Installing & Running
 ```
 Just drag the index.html page to a browser.
+```
+
+# Dependencies
+```
+None for now.
 ```
